@@ -1,1 +1,1 @@
-# IBM-Applied-AI
+answers of IBM course Applied-AI
